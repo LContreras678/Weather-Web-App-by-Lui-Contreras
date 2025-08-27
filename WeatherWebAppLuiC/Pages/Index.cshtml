@@ -1,17 +1,16 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Home";
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome to the Weather App!</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
 <div class="text-center mt-4">
     <form>
-        <input type="text" class="form-control d-inline-block w-auto" placeholder="To begin, please input your city here!" style="max-width: 300px;" />
+        <input type="text" class="form-control d-inline-block w-75" placeholder="Input your city here!" style="max-width: 300px;" />
         <button type="submit" class="btn btn-primary ml-2">Search</button>
     </form>
 </div>
