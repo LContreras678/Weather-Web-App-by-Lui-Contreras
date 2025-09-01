@@ -1,3 +1,18 @@
+Patch Notes and Build History:
+
+1st Sep 2025:
+* Changed data type from double to integer in WeatherResultOutput.cs
+* Temperatures will now show in integers (no more decimals)
+
+
+28th Aug 2025: 
+* Basic functionality implemented
+* Able to search for a city, bring some text description and the weather temperature
+
+
+
+
+
 Final Dissertation Project by Lui Contreras
 
 Current bibliography:
