@@ -8,7 +8,7 @@ namespace WeatherWebAppLuiC.Models
         public string? City { get; set; }
         public string? WeatherDescription { get; set; }
 
-        public double Temps { get; set; }
+        public int Temps { get; set; }
     }
 
 }
