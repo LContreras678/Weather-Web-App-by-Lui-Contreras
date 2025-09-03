@@ -1,5 +1,10 @@
 Patch Notes and Build History:
 
+3rd Sep 2025:
+
+* Weather is now displayed in WeatherResult.cshtml (C# HTML code available in WeatherResult.cshtml.cs)
+* Link to allow user to return home and search for another city
+
 1st Sep 2025:
 * Changed data type from double to integer in WeatherResultOutput.cs
 * Temperatures will now show in integers (no more decimals)
