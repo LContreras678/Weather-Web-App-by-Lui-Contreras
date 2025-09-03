@@ -1,0 +1,22 @@
+@page "{city}"
+@model WeatherWebAppLuiC.Pages.WeatherResultModel
+
+<h2>Weather Overview</h2>
+
+@if (Model.Weather != null)
+{
+    <div>
+        <strong>@Model.Weather.City</strong>: @Model.Weather.WeatherDescription, @Model.Weather.Temps&nbsp;°C
+    </div>
+}
+else
+{
+    <div>
+        Weather information not found. Please return to home page: 
+        <a href "/">Return Home</a>
+    </div>
+}
+
+<div style="margin-top: 2em;">
+    <a href="/">Return Home</a>
+</div>

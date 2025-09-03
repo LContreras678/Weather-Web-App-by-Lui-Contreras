@@ -35,6 +35,8 @@ public class IndexModel : PageModel
                 WeatherDescription = data.weather[0].description,
                 Temps = data.main.temp
             };
+            
+            return RedirectToPage("WeatherResult", new { city = City });
         }
         return Page();
     }
