@@ -14,8 +14,9 @@ Patch Notes and Build History:
 
 
 Final Dissertation Project by Lui Contreras
+Created for the PROM04, PROM05 and PROM06 Final Dissertation Research Project
 
-Current bibliography:
+C# bibliography:
 
 Microsoft (2024a). dotnet new . [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new [Accessed 28 Aug. 2025].
 
