@@ -29,8 +29,30 @@ namespace WeatherWebAppLuiC.Pages
                 {
                     City = data.name,
                     WeatherDescription = data.weather[0].description,
-                    Temps = data.main.temp
+                    Temps = data.main.temp,
+                    WeatherNow = data.weather[0].main
                 };
+
+                string main = ((string)data.weather[0].main).ToLower();
+                string desc = ((string)data.weather[0].description).ToLower();
+                // To do: 5th Sep 2025 | Cloud icon added for cloudy weather
+                // However, it still requires responsive design and resizing.
+                if (main == "clouds" || desc.Contains("clouds"))
+                {
+                    Weather.WeatherNow = "Clouds";
+                }
+                else if (main == "clear")
+                {
+                    Weather.WeatherNow = "Clear";
+                }
+                else if (main == "rain")
+                {
+                    Weather.WeatherNow = "Rain";
+                }
+                else if (main == "snow")
+                {
+                    Weather.WeatherNow = "Snow";
+                }
             }
         }
     }

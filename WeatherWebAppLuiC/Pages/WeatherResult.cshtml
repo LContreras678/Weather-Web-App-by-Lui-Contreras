@@ -5,9 +5,10 @@
 
 @if (Model.Weather != null)
 {
-    <div>
-        <strong>@Model.Weather.City</strong>: @Model.Weather.WeatherDescription, @Model.Weather.Temps&nbsp;°C
-    </div>
+    <img src="~/Images/Main/@($"{Model.Weather.WeatherNow}.png")" alt="Current Weather Icon" />
+    <p>@Model.Weather.City</p>
+    <p>@Model.Weather.WeatherDescription</p>
+    <p>@Model.Weather.Temps °C</p>
 }
 else
 {

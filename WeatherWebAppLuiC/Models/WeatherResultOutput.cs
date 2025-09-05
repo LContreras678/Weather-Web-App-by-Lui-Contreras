@@ -9,6 +9,8 @@ namespace WeatherWebAppLuiC.Models
         public string? WeatherDescription { get; set; }
 
         public int Temps { get; set; }
+        
+        public string? WeatherNow { get; set; }
     }
 
 }
