@@ -1,5 +1,9 @@
 Patch Notes and Build History:
 
+5th Sep 2025:
+* Added icon for cloudy weather
+* If weather in city is cloudy, an icon will show up. In the meantime, it will require image to be resized and to have responsive design so it is suitable for mobile smartphones.
+
 3rd Sep 2025:
 
 * Weather is now displayed in WeatherResult.cshtml (C# HTML code available in WeatherResult.cshtml.cs)
@@ -7,7 +11,7 @@ Patch Notes and Build History:
 
 1st Sep 2025:
 * Changed data type from double to integer in WeatherResultOutput.cs
-* Temperatures will now show in integers (no more decimals)
+* Temperatures will now show in integers. Decimal numbers will no longer appear.
 
 
 28th Aug 2025: 
