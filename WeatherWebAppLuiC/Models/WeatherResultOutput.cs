@@ -9,8 +9,17 @@ namespace WeatherWebAppLuiC.Models
         public string? WeatherDescription { get; set; }
 
         public int Temps { get; set; }
-        
+
         public string? WeatherNow { get; set; }
+
+        public List<HourlyWeather> HourlyForecast { get; set; } = new();
+    }
+
+    public class HourlyWeather
+    {
+        public DateTime Time { get; set; }
+        public int Temperature { get; set; }
+        public string? IconName { get; set; }
     }
 
 }

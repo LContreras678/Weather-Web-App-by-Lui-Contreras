@@ -8,14 +8,43 @@
     <img src="~/Images/Main/@($"{Model.Weather.WeatherNow}.png")" alt="Current Weather Icon" />
     <p>@Model.Weather.City</p>
     <p>@Model.Weather.WeatherDescription</p>
-    <p>@Model.Weather.Temps °C</p>
+    <p>@($"{Model.Weather.Temps}°C")</p>
 }
 else
 {
     <div>
         Weather information not found. Please return to home page: 
-        <a href "/">Return Home</a>
+        <a href="/">Return Home</a>
     </div>
+}
+
+@if (Model.Weather?.HourlyForecast != null && Model.Weather.HourlyForecast.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Temperature (&deg;C)</th>
+                <th>Weather</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var hour in Model.Weather.HourlyForecast)
+            {
+                <tr>
+                    <td>@hour.Time.ToString("HH:00")</td>
+                    <td>@hour.Temperature</td>
+                    <td>
+                        <img src="~/Images/Main/@($"{hour.IconName}.png")" alt="Weather Icon/Description" class="weather-table-icon-display" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Hourly forecast is currently unavailable. Please try again later.</p>
 }
 
 <div style="margin-top: 2em;">

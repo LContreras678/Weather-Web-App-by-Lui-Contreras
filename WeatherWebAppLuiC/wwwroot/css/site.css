@@ -41,3 +41,17 @@ body {
 button-search {
   position: absolute;
 }
+
+.weather-icon {
+  width: 100px;
+  height: auto;
+  max-width: 65%;
+  display: block;
+  margin: 0 auto;
+}
+
+.weather-table-icon-display {
+  width: 25px;
+  length: 25px;
+  object-fit: contain;
+}
