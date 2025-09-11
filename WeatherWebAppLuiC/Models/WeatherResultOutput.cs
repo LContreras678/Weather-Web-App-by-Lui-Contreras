@@ -1,6 +1,7 @@
 namespace WeatherWebAppLuiC.Models
 // Used to gather Weather Results
 // Results will display City Name, some text description and since double data type is used, the weather will have a decimal.
+// Now updated to have Hourly Weather updates.
 
 {
     public class WeatherResultOutput
