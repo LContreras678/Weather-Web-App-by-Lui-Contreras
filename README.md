@@ -1,5 +1,9 @@
 Patch Notes and Build History:
 
+12th Sep 2025:
+* Added icons for snow, rain, storm and windy weather.
+* Added hourly weather. It can now display the corresponding weather with an icon and the temperature.
+
 5th Sep 2025:
 * Added icon for cloudy weather
 * If weather in city is cloudy, an icon will show up. In the meantime, it will require image to be resized and to have responsive design so it is suitable for mobile smartphones.
