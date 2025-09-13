@@ -1,5 +1,10 @@
 Patch Notes and Build History:
 
+13th Sep 2025:
+* Added a temporary welcome message.
+* Introductory text has been added. In future iterations, this will be for a link to the optional survey for application feedback.
+* Closing the message allows the user to begin using the web app.
+
 12th Sep 2025:
 * Added icons for snow, rain, storm and windy weather.
 * Added hourly weather. It can now display the corresponding weather with an icon and the temperature.
