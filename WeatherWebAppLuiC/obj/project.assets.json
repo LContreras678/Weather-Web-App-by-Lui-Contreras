@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\single\\Documents\\UoSFinalDissertationLContreras\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
+      "projectUniqueName": "D:\\University of Sunderland MSc\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
       "projectName": "WeatherWebAppLuiC",
-      "projectPath": "D:\\single\\Documents\\UoSFinalDissertationLContreras\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
+      "projectPath": "D:\\University of Sunderland MSc\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
       "packagesPath": "C:\\Users\\single\\.nuget\\packages\\",
-      "outputPath": "D:\\single\\Documents\\UoSFinalDissertationLContreras\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\",
+      "outputPath": "D:\\University of Sunderland MSc\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\single\\AppData\\Roaming\\NuGet\\NuGet.Config"
