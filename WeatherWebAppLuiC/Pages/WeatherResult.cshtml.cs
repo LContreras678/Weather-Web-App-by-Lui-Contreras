@@ -38,9 +38,9 @@ namespace WeatherWebAppLuiC.Pages
                 Func<string, string> mapIcon = main =>
                 {
                     main = main.ToLower();
-                    if (main == "clouds") return "Clouds";
-                    if (main == "clear") return "Clear";
-                    if (main == "rain") return "Rain";
+                    if (main == "clouds") return "03d.png";
+                    if (main == "clear") return "01d.png";
+                    if (main == "rain") return "05d.png";
                     if (main == "snow") return "Snow";
                     return "Default";
                 };

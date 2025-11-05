@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QQnW0Db794xZHHgCfAgBiPX8mHOfP9+m+jVVck07dhQ=",
+  "Hash": "cNHWLrqcx+dTWbfy14VPIn7KXRcmzKNk6u1gcyW80/8=",
   "Source": "WeatherWebAppLuiC",
   "BasePath": "_content/WeatherWebAppLuiC",
   "Mode": "Default",
@@ -1445,6 +1445,174 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\01d.png",
+      "SourceId": "WeatherWebAppLuiC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
+      "BasePath": "_content/WeatherWebAppLuiC",
+      "RelativePath": "Images/Main/01d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uho87qb51t",
+      "Integrity": "/tIfqBR9jB/YMu6kOCy3D6XapDl4/9tGjBVeSqdENaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Main\\01d.png"
+    },
+    {
+      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\02d.png",
+      "SourceId": "WeatherWebAppLuiC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
+      "BasePath": "_content/WeatherWebAppLuiC",
+      "RelativePath": "Images/Main/02d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "flzm365h0a",
+      "Integrity": "s6hyxt1FMC5kfHnH8AMbK4bBvcyP2ezhPNJ7nc7IuVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Main\\02d.png"
+    },
+    {
+      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\03d.png",
+      "SourceId": "WeatherWebAppLuiC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
+      "BasePath": "_content/WeatherWebAppLuiC",
+      "RelativePath": "Images/Main/03d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pm5dl34ono",
+      "Integrity": "P0HTTPIhwZa2SpjPmhZATKRfSIRtozuEVNX66Sshmq4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Main\\03d.png"
+    },
+    {
+      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\04d.png",
+      "SourceId": "WeatherWebAppLuiC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
+      "BasePath": "_content/WeatherWebAppLuiC",
+      "RelativePath": "Images/Main/04d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "seg13p3m97",
+      "Integrity": "rF9M5nNU5j/qjeer1FmLhh9PXwkXCLDuZ4WACdq7K7M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Main\\04d.png"
+    },
+    {
+      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\05d.png",
+      "SourceId": "WeatherWebAppLuiC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
+      "BasePath": "_content/WeatherWebAppLuiC",
+      "RelativePath": "Images/Main/05d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "be2ky1p8mw",
+      "Integrity": "3SD/QaVlrtbpETM6+8ZJrmyGtACGerfgiahzPHzAAUQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Main\\05d.png"
+    },
+    {
+      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\09d.png",
+      "SourceId": "WeatherWebAppLuiC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
+      "BasePath": "_content/WeatherWebAppLuiC",
+      "RelativePath": "Images/Main/09d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "04t31iyz1q",
+      "Integrity": "4ECIuL9REfKY3YnGYUqYrx++32ke9EmyOzmC2/BdGbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Main\\09d.png"
+    },
+    {
+      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\11d.png",
+      "SourceId": "WeatherWebAppLuiC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
+      "BasePath": "_content/WeatherWebAppLuiC",
+      "RelativePath": "Images/Main/11d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9os7y79fx0",
+      "Integrity": "6bpFG/fKHzRU7GSPPUJpYiklm4ksi2UGGR9TSwUMNvQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Main\\11d.png"
+    },
+    {
+      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\13d.png",
+      "SourceId": "WeatherWebAppLuiC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
+      "BasePath": "_content/WeatherWebAppLuiC",
+      "RelativePath": "Images/Main/13d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kkhxd2npmh",
+      "Integrity": "NPySr0GJt5IcYb1LtwLgFWoZyOGibLbKtP5ADc47T9Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Main\\13d.png"
+    },
+    {
       "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\20250401_190146.jpg",
       "SourceId": "WeatherWebAppLuiC",
       "SourceType": "Discovered",
@@ -1466,12 +1634,12 @@
       "OriginalItemSpec": "wwwroot\\Images\\Main\\20250401_190146.jpg"
     },
     {
-      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\Clouds.png",
+      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\50d.png",
       "SourceId": "WeatherWebAppLuiC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
       "BasePath": "_content/WeatherWebAppLuiC",
-      "RelativePath": "Images/Main/Clouds#[.{fingerprint}]?.png",
+      "RelativePath": "Images/Main/50d#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1480,11 +1648,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "37c0nhvh5l",
-      "Integrity": "v8gw6H2o+Dx7/ePvjYxpAdOy5S2/z6UoUPm13qYfUP0=",
+      "Fingerprint": "bey30jmoe6",
+      "Integrity": "41w01PTlqmAA4yKcTxSl85luWTAu34DV9Sc8f3R8Zj4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Main\\Clouds.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Main\\50d.png"
     },
     {
       "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\Logo maker project.png",
@@ -1506,132 +1674,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Main\\Logo maker project.png"
-    },
-    {
-      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\PartlyCloudy.png",
-      "SourceId": "WeatherWebAppLuiC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
-      "BasePath": "_content/WeatherWebAppLuiC",
-      "RelativePath": "Images/Main/PartlyCloudy#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zz6xsv5dpc",
-      "Integrity": "r6msrtZGCVs+vvmvhLETvfPcjHoXl0La3RXzUDQqhR0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Main\\PartlyCloudy.png"
-    },
-    {
-      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\rain.png",
-      "SourceId": "WeatherWebAppLuiC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
-      "BasePath": "_content/WeatherWebAppLuiC",
-      "RelativePath": "Images/Main/rain#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "nbm4oztdy3",
-      "Integrity": "/SEVgACSNUeGvJTX0d1c9NT6FiibUELq9pURXLfrP2A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Main\\rain.png"
-    },
-    {
-      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\Snowy.png",
-      "SourceId": "WeatherWebAppLuiC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
-      "BasePath": "_content/WeatherWebAppLuiC",
-      "RelativePath": "Images/Main/Snowy#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "vyprwzzkz5",
-      "Integrity": "N3gvYKUI3vBfDiLvDWCwiDH/9U6aTb0QchnIVpDN/Pk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Main\\Snowy.png"
-    },
-    {
-      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\storm.png",
-      "SourceId": "WeatherWebAppLuiC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
-      "BasePath": "_content/WeatherWebAppLuiC",
-      "RelativePath": "Images/Main/storm#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "urkzopachz",
-      "Integrity": "FvBm/Fo3HfLQdhT/FDJ/lUyF/QfcQ7XaLtZIWl92f2Y=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Main\\storm.png"
-    },
-    {
-      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\sun.png",
-      "SourceId": "WeatherWebAppLuiC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
-      "BasePath": "_content/WeatherWebAppLuiC",
-      "RelativePath": "Images/Main/sun#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "3kbggcua2d",
-      "Integrity": "g75NJ5yI/ldVzevlDwOQV+P8cd5RsjzCZfPJkZ+6XpQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Main\\sun.png"
-    },
-    {
-      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\Windy.png",
-      "SourceId": "WeatherWebAppLuiC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\",
-      "BasePath": "_content/WeatherWebAppLuiC",
-      "RelativePath": "Images/Main/Windy#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "uoy2w2k0g7",
-      "Integrity": "4jubYt8sR9vff4liGb08we5NGUp4x13jWmK3USM6vP8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Main\\Windy.png"
     },
     {
       "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\js\\site.js",
@@ -3513,6 +3555,662 @@
       ]
     },
     {
+      "Route": "Images/Main/01d.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\01d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/tIfqBR9jB/YMu6kOCy3D6XapDl4/9tGjBVeSqdENaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/tIfqBR9jB/YMu6kOCy3D6XapDl4/9tGjBVeSqdENaY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/01d.uho87qb51t.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\01d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/tIfqBR9jB/YMu6kOCy3D6XapDl4/9tGjBVeSqdENaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uho87qb51t"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Main/01d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/tIfqBR9jB/YMu6kOCy3D6XapDl4/9tGjBVeSqdENaY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/02d.flzm365h0a.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\02d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6hyxt1FMC5kfHnH8AMbK4bBvcyP2ezhPNJ7nc7IuVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:16:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "flzm365h0a"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Main/02d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6hyxt1FMC5kfHnH8AMbK4bBvcyP2ezhPNJ7nc7IuVI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/02d.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\02d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6hyxt1FMC5kfHnH8AMbK4bBvcyP2ezhPNJ7nc7IuVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:16:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6hyxt1FMC5kfHnH8AMbK4bBvcyP2ezhPNJ7nc7IuVI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/03d.pm5dl34ono.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\03d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0HTTPIhwZa2SpjPmhZATKRfSIRtozuEVNX66Sshmq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pm5dl34ono"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Main/03d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0HTTPIhwZa2SpjPmhZATKRfSIRtozuEVNX66Sshmq4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/03d.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\03d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0HTTPIhwZa2SpjPmhZATKRfSIRtozuEVNX66Sshmq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0HTTPIhwZa2SpjPmhZATKRfSIRtozuEVNX66Sshmq4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/04d.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\04d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rF9M5nNU5j/qjeer1FmLhh9PXwkXCLDuZ4WACdq7K7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rF9M5nNU5j/qjeer1FmLhh9PXwkXCLDuZ4WACdq7K7M="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/04d.seg13p3m97.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\04d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rF9M5nNU5j/qjeer1FmLhh9PXwkXCLDuZ4WACdq7K7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "seg13p3m97"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Main/04d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rF9M5nNU5j/qjeer1FmLhh9PXwkXCLDuZ4WACdq7K7M="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/05d.be2ky1p8mw.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\05d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25697"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3SD/QaVlrtbpETM6+8ZJrmyGtACGerfgiahzPHzAAUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:17:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "be2ky1p8mw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Main/05d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3SD/QaVlrtbpETM6+8ZJrmyGtACGerfgiahzPHzAAUQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/05d.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\05d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25697"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3SD/QaVlrtbpETM6+8ZJrmyGtACGerfgiahzPHzAAUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:17:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3SD/QaVlrtbpETM6+8ZJrmyGtACGerfgiahzPHzAAUQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/09d.04t31iyz1q.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\09d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ECIuL9REfKY3YnGYUqYrx++32ke9EmyOzmC2/BdGbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:18:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04t31iyz1q"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Main/09d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ECIuL9REfKY3YnGYUqYrx++32ke9EmyOzmC2/BdGbw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/09d.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\09d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ECIuL9REfKY3YnGYUqYrx++32ke9EmyOzmC2/BdGbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:18:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ECIuL9REfKY3YnGYUqYrx++32ke9EmyOzmC2/BdGbw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/11d.9os7y79fx0.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\11d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6bpFG/fKHzRU7GSPPUJpYiklm4ksi2UGGR9TSwUMNvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:20:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9os7y79fx0"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Main/11d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6bpFG/fKHzRU7GSPPUJpYiklm4ksi2UGGR9TSwUMNvQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/11d.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\11d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6bpFG/fKHzRU7GSPPUJpYiklm4ksi2UGGR9TSwUMNvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:20:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6bpFG/fKHzRU7GSPPUJpYiklm4ksi2UGGR9TSwUMNvQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/13d.kkhxd2npmh.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\13d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NPySr0GJt5IcYb1LtwLgFWoZyOGibLbKtP5ADc47T9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:21:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kkhxd2npmh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Main/13d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NPySr0GJt5IcYb1LtwLgFWoZyOGibLbKtP5ADc47T9Y="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Main/13d.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\13d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NPySr0GJt5IcYb1LtwLgFWoZyOGibLbKtP5ADc47T9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Nov 2025 22:21:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NPySr0GJt5IcYb1LtwLgFWoZyOGibLbKtP5ADc47T9Y="
+        }
+      ]
+    },
+    {
       "Route": "Images/Main/20250401_190146.9i6m33yh8z.jpg",
       "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\20250401_190146.jpg",
       "Selectors": [],
@@ -3595,8 +4293,8 @@
       ]
     },
     {
-      "Route": "Images/Main/Clouds.37c0nhvh5l.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\Clouds.png",
+      "Route": "Images/Main/50d.bey30jmoe6.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\50d.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3605,7 +4303,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9037"
+          "Value": "24720"
         },
         {
           "Name": "Content-Type",
@@ -3613,11 +4311,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v8gw6H2o+Dx7/ePvjYxpAdOy5S2/z6UoUPm13qYfUP0=\""
+          "Value": "\"41w01PTlqmAA4yKcTxSl85luWTAu34DV9Sc8f3R8Zj4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
+          "Value": "Wed, 05 Nov 2025 22:22:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3627,21 +4325,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "37c0nhvh5l"
+          "Value": "bey30jmoe6"
         },
         {
           "Name": "label",
-          "Value": "Images/Main/Clouds.png"
+          "Value": "Images/Main/50d.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-v8gw6H2o+Dx7/ePvjYxpAdOy5S2/z6UoUPm13qYfUP0="
+          "Value": "sha256-41w01PTlqmAA4yKcTxSl85luWTAu34DV9Sc8f3R8Zj4="
         }
       ]
     },
     {
-      "Route": "Images/Main/Clouds.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\Clouds.png",
+      "Route": "Images/Main/50d.png",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\50d.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3650,7 +4348,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9037"
+          "Value": "24720"
         },
         {
           "Name": "Content-Type",
@@ -3658,11 +4356,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v8gw6H2o+Dx7/ePvjYxpAdOy5S2/z6UoUPm13qYfUP0=\""
+          "Value": "\"41w01PTlqmAA4yKcTxSl85luWTAu34DV9Sc8f3R8Zj4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
+          "Value": "Wed, 05 Nov 2025 22:22:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3672,7 +4370,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-v8gw6H2o+Dx7/ePvjYxpAdOy5S2/z6UoUPm13qYfUP0="
+          "Value": "sha256-41w01PTlqmAA4yKcTxSl85luWTAu34DV9Sc8f3R8Zj4="
         }
       ]
     },
@@ -3755,498 +4453,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-DQMmfDXItmcK2nMhVp77jjoAaaU96mYeRS2fXCXxGnM="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/PartlyCloudy.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\PartlyCloudy.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8944"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r6msrtZGCVs+vvmvhLETvfPcjHoXl0La3RXzUDQqhR0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-r6msrtZGCVs+vvmvhLETvfPcjHoXl0La3RXzUDQqhR0="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/PartlyCloudy.zz6xsv5dpc.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\PartlyCloudy.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8944"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r6msrtZGCVs+vvmvhLETvfPcjHoXl0La3RXzUDQqhR0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zz6xsv5dpc"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Main/PartlyCloudy.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-r6msrtZGCVs+vvmvhLETvfPcjHoXl0La3RXzUDQqhR0="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/rain.nbm4oztdy3.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\rain.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "62578"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/SEVgACSNUeGvJTX0d1c9NT6FiibUELq9pURXLfrP2A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nbm4oztdy3"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Main/rain.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/SEVgACSNUeGvJTX0d1c9NT6FiibUELq9pURXLfrP2A="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/rain.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\rain.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "62578"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/SEVgACSNUeGvJTX0d1c9NT6FiibUELq9pURXLfrP2A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/SEVgACSNUeGvJTX0d1c9NT6FiibUELq9pURXLfrP2A="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/Snowy.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\Snowy.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11505"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N3gvYKUI3vBfDiLvDWCwiDH/9U6aTb0QchnIVpDN/Pk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-N3gvYKUI3vBfDiLvDWCwiDH/9U6aTb0QchnIVpDN/Pk="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/Snowy.vyprwzzkz5.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\Snowy.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11505"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N3gvYKUI3vBfDiLvDWCwiDH/9U6aTb0QchnIVpDN/Pk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vyprwzzkz5"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Main/Snowy.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-N3gvYKUI3vBfDiLvDWCwiDH/9U6aTb0QchnIVpDN/Pk="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/storm.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\storm.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51933"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FvBm/Fo3HfLQdhT/FDJ/lUyF/QfcQ7XaLtZIWl92f2Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FvBm/Fo3HfLQdhT/FDJ/lUyF/QfcQ7XaLtZIWl92f2Y="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/storm.urkzopachz.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\storm.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51933"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FvBm/Fo3HfLQdhT/FDJ/lUyF/QfcQ7XaLtZIWl92f2Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "urkzopachz"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Main/storm.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FvBm/Fo3HfLQdhT/FDJ/lUyF/QfcQ7XaLtZIWl92f2Y="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/sun.3kbggcua2d.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\sun.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43641"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g75NJ5yI/ldVzevlDwOQV+P8cd5RsjzCZfPJkZ+6XpQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3kbggcua2d"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Main/sun.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-g75NJ5yI/ldVzevlDwOQV+P8cd5RsjzCZfPJkZ+6XpQ="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/sun.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\sun.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43641"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g75NJ5yI/ldVzevlDwOQV+P8cd5RsjzCZfPJkZ+6XpQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-g75NJ5yI/ldVzevlDwOQV+P8cd5RsjzCZfPJkZ+6XpQ="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/Windy.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\Windy.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15893"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4jubYt8sR9vff4liGb08we5NGUp4x13jWmK3USM6vP8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4jubYt8sR9vff4liGb08we5NGUp4x13jWmK3USM6vP8="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Main/Windy.uoy2w2k0g7.png",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\Images\\Main\\Windy.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15893"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4jubYt8sR9vff4liGb08we5NGUp4x13jWmK3USM6vP8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 21:46:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uoy2w2k0g7"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Main/Windy.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4jubYt8sR9vff4liGb08we5NGUp4x13jWmK3USM6vP8="
         }
       ]
     },

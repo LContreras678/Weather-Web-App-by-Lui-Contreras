@@ -5,7 +5,7 @@
 
 @if (Model.Weather != null)
 {
-    <img src="~/Images/Main/@($"{Model.Weather.WeatherNow}.png")" alt="Current Weather Icon" />
+    <img src="~/Images/Main/@(Model.Weather.HourlyForecast != null && Model.Weather.HourlyForecast.Count > 0 ? Model.Weather.HourlyForecast[0].IconName : "03d.png")" alt="Current Weather Icon" />
     <p>@Model.Weather.City</p>
     <p>@Model.Weather.WeatherDescription</p>
     <p>@($"{Model.Weather.Temps}°C")</p>
@@ -35,7 +35,7 @@ else
                     <td>@hour.Time.ToString("HH:00")</td>
                     <td>@hour.Temperature</td>
                     <td>
-                        <img src="~/Images/Main/@($"{hour.IconName}.png")" alt="Weather Icon/Description" class="weather-table-icon-display" />
+                        <img src="~/Images/Main/@hour.IconName" alt="Weather Icon/Description" class="weather-table-icon-display" />
                     </td>
                 </tr>
             }
