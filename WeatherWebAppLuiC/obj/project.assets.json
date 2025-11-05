@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\single\\.nuget\\packages\\": {}
+    "C:\\Users\\luima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\University of Sunderland MSc\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
+      "projectUniqueName": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
       "projectName": "WeatherWebAppLuiC",
-      "projectPath": "D:\\University of Sunderland MSc\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
-      "packagesPath": "C:\\Users\\single\\.nuget\\packages\\",
-      "outputPath": "D:\\University of Sunderland MSc\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\",
+      "projectPath": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
+      "packagesPath": "C:\\Users\\luima\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\single\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\luima\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -91,7 +91,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -121,7 +121,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.109/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+NVa8hH1ddc=",
+  "dgSpecHash": "yY21YEceVPM=",
   "success": true,
-  "projectFilePath": "D:\\University of Sunderland MSc\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
+  "projectFilePath": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\single\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\luima\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
