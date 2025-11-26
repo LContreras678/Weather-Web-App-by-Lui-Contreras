@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj": {}
+    "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj": {
+    "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
+        "projectUniqueName": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
         "projectName": "WeatherWebAppLuiC",
-        "projectPath": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
+        "projectPath": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\WeatherWebAppLuiC.csproj",
         "packagesPath": "C:\\Users\\luima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\Little Test Projects\\WeatherWebLC\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\",
+        "outputPath": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luima\\AppData\\Roaming\\NuGet\\NuGet.Config"

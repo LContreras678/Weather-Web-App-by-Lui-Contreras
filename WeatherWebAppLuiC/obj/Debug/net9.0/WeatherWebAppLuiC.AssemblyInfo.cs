@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherWebAppLuiC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14bf02aa3d851b098004273560fff7db0b16980c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+312e50cd0cc4787e2f23ef36941b47ceb322f8d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherWebAppLuiC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherWebAppLuiC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
