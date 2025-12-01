@@ -41,7 +41,7 @@ namespace WeatherWebAppLuiC.Pages
                     if (main == "clouds") return "03d.png";
                     if (main == "clear") return "01d.png";
                     if (main == "rain") return "05d.png";
-                    if (main == "snow") return "Snow";
+                    if (main == "snow") return "13d.png";
                     return "Default";
                 };
 
