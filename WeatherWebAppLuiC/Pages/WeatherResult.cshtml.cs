@@ -44,6 +44,7 @@ namespace WeatherWebAppLuiC.Pages
                     if (main == "snow") return "13d.png";
                     return "Default";
                 };
+                // TO DO: Add all weather conditions from Weather API: https://docs.openweather.co.uk/weather-conditions#Icon-list
 
                 for (int i = 0; i < 12 && i < ((IEnumerable<dynamic>)data.list).Count(); i++)
                 {
