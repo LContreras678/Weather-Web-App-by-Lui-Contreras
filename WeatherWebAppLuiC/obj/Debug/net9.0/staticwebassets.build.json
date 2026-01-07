@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ovwU1NyncQHrxGfkAGE4lk/4hNI8lS/6ojJGHRKAAL4=",
+  "Hash": "Z0jaup5LXBUjFDcycoxj/wyrNQ9vFsQuKSM+WEs6IMk=",
   "Source": "WeatherWebAppLuiC",
   "BasePath": "_content/WeatherWebAppLuiC",
   "Mode": "Default",
@@ -542,12 +542,12 @@
       "OriginalItemSpec": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\f4c7g1vnqy-u9ttmbklv5.gz",
+      "Identity": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\f4c7g1vnqy-94givss90y.gz",
       "SourceId": "WeatherWebAppLuiC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WeatherWebAppLuiC",
-      "RelativePath": "js/site#[.{fingerprint=u9ttmbklv5}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=94givss90y}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -556,8 +556,8 @@
       "RelatedAsset": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "abblmx6gl2",
-      "Integrity": "hoYdtDywtRBm+ghR/5Nxvx3khSlr3U0UDnrlQ7q7BkM=",
+      "Fingerprint": "6t305vq12b",
+      "Integrity": "SvRNhCxukppp5X6P40TgJo2Mhqm00Q90cjznE+ZCWng=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\js\\site.js"
@@ -1690,8 +1690,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "u9ttmbklv5",
-      "Integrity": "cpv5eanx2ZsEoRsJ/OqdCBe2f8AQXt3JvIRib/eXfno=",
+      "Fingerprint": "94givss90y",
+      "Integrity": "GZHv9AypYeoR4c7JbH9P29JzdEMeAgyxT9bQJ8XD4DM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -4457,13 +4457,13 @@
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\f4c7g1vnqy-u9ttmbklv5.gz",
+      "Route": "js/site.94givss90y.js",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\f4c7g1vnqy-94givss90y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001057082452"
+          "Quality": "0.000900900901"
         }
       ],
       "ResponseHeaders": [
@@ -4473,19 +4473,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "945"
+          "Value": "1109"
         },
         {
           "Name": "ETag",
-          "Value": "\"hoYdtDywtRBm+ghR/5Nxvx3khSlr3U0UDnrlQ7q7BkM=\""
+          "Value": "\"SvRNhCxukppp5X6P40TgJo2Mhqm00Q90cjznE+ZCWng=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 Jan 2026 20:07:09 GMT"
+          "Value": "Wed, 07 Jan 2026 22:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4501,18 +4501,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cpv5eanx2ZsEoRsJ/OqdCBe2f8AQXt3JvIRib/eXfno=\""
+          "Value": "W/\"GZHv9AypYeoR4c7JbH9P29JzdEMeAgyxT9bQJ8XD4DM=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "94givss90y"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-cpv5eanx2ZsEoRsJ/OqdCBe2f8AQXt3JvIRib/eXfno="
+          "Value": "sha256-GZHv9AypYeoR4c7JbH9P29JzdEMeAgyxT9bQJ8XD4DM="
         }
       ]
     },
     {
-      "Route": "js/site.js",
+      "Route": "js/site.94givss90y.js",
       "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4522,7 +4530,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2652"
+          "Value": "3330"
         },
         {
           "Name": "Content-Type",
@@ -4530,121 +4538,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cpv5eanx2ZsEoRsJ/OqdCBe2f8AQXt3JvIRib/eXfno=\""
+          "Value": "\"GZHv9AypYeoR4c7JbH9P29JzdEMeAgyxT9bQJ8XD4DM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 Jan 2026 20:07:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cpv5eanx2ZsEoRsJ/OqdCBe2f8AQXt3JvIRib/eXfno="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js.gz",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\f4c7g1vnqy-u9ttmbklv5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "945"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hoYdtDywtRBm+ghR/5Nxvx3khSlr3U0UDnrlQ7q7BkM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 Jan 2026 20:07:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hoYdtDywtRBm+ghR/5Nxvx3khSlr3U0UDnrlQ7q7BkM="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.u9ttmbklv5.js",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\f4c7g1vnqy-u9ttmbklv5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001057082452"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "945"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hoYdtDywtRBm+ghR/5Nxvx3khSlr3U0UDnrlQ7q7BkM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 Jan 2026 20:07:09 GMT"
+          "Value": "Wed, 07 Jan 2026 22:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"cpv5eanx2ZsEoRsJ/OqdCBe2f8AQXt3JvIRib/eXfno=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u9ttmbklv5"
+          "Value": "94givss90y"
         },
         {
           "Name": "label",
@@ -4652,13 +4560,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cpv5eanx2ZsEoRsJ/OqdCBe2f8AQXt3JvIRib/eXfno="
+          "Value": "sha256-GZHv9AypYeoR4c7JbH9P29JzdEMeAgyxT9bQJ8XD4DM="
         }
       ]
     },
     {
-      "Route": "js/site.u9ttmbklv5.js",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\js\\site.js",
+      "Route": "js/site.94givss90y.js.gz",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\f4c7g1vnqy-94givss90y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4667,7 +4575,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2652"
+          "Value": "1109"
         },
         {
           "Name": "Content-Type",
@@ -4675,56 +4583,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cpv5eanx2ZsEoRsJ/OqdCBe2f8AQXt3JvIRib/eXfno=\""
+          "Value": "\"SvRNhCxukppp5X6P40TgJo2Mhqm00Q90cjznE+ZCWng=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 Jan 2026 20:07:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "u9ttmbklv5"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cpv5eanx2ZsEoRsJ/OqdCBe2f8AQXt3JvIRib/eXfno="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.u9ttmbklv5.js.gz",
-      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\f4c7g1vnqy-u9ttmbklv5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "945"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hoYdtDywtRBm+ghR/5Nxvx3khSlr3U0UDnrlQ7q7BkM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 Jan 2026 20:07:09 GMT"
+          "Value": "Wed, 07 Jan 2026 22:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4742,7 +4605,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u9ttmbklv5"
+          "Value": "94givss90y"
         },
         {
           "Name": "label",
@@ -4750,7 +4613,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hoYdtDywtRBm+ghR/5Nxvx3khSlr3U0UDnrlQ7q7BkM="
+          "Value": "sha256-SvRNhCxukppp5X6P40TgJo2Mhqm00Q90cjznE+ZCWng="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\f4c7g1vnqy-94givss90y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000900900901"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SvRNhCxukppp5X6P40TgJo2Mhqm00Q90cjznE+ZCWng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 22:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GZHv9AypYeoR4c7JbH9P29JzdEMeAgyxT9bQJ8XD4DM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GZHv9AypYeoR4c7JbH9P29JzdEMeAgyxT9bQJ8XD4DM="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GZHv9AypYeoR4c7JbH9P29JzdEMeAgyxT9bQJ8XD4DM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 22:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GZHv9AypYeoR4c7JbH9P29JzdEMeAgyxT9bQJ8XD4DM="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "C:\\Users\\luima\\Documents\\University of Sunderland MSc\\PROM06\\Weather Web App\\Weather-Web-App-by-Lui-Contreras\\WeatherWebAppLuiC\\obj\\Debug\\net9.0\\compressed\\f4c7g1vnqy-94givss90y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SvRNhCxukppp5X6P40TgJo2Mhqm00Q90cjznE+ZCWng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 22:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SvRNhCxukppp5X6P40TgJo2Mhqm00Q90cjznE+ZCWng="
         }
       ]
     },
