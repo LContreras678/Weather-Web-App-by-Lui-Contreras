@@ -41,8 +41,4 @@ public class IndexModel : PageModel
         return Page();
     }
 
-    public void OnGet()
-    {
-
-    }
 }

@@ -13,6 +13,7 @@
         <img src="/Images/Main/20250401_190146.jpg" alt="London Skyline Sunny Weather" style="max-width: 100%; width: 100%; height: auto; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" />
         <form method="post" style="position: absolute; top: 10%; left: 50%; transform: translate(-50%, 0); width: 80%; background: rgba(255,255,255,0.85); padding: 12px 16px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
             <input asp-for="City" type="text" class="form-control d-inline-block w-100" placeholder="Input city here!" style="max-width: 850px;"/>
+                <div id="city-suggestions" class="autocomplete-items" style="position:relative; z-index:1000;"></div>
             <button type="submit" class="center-button">Search</button>
         </form>
     </div>
@@ -24,3 +25,6 @@
         <strong>@Model.Weather.City</strong>: @Model.Weather.WeatherDescription, @Model.Weather.Temps&nbsp;°C
     </div>
 }
+
+<!-- Ensure site.js is loaded for autocomplete functionality -->
+<script src="~/js/site.js"></script>

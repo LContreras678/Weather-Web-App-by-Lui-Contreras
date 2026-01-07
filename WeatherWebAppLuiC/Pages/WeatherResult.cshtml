@@ -18,33 +18,22 @@ else
     </div>
 }
 
+@* Horizontally scrollable next 6 hours forecast *@
 @if (Model.Weather?.HourlyForecast != null && Model.Weather.HourlyForecast.Count > 0)
 {
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Time</th>
-                <th>Temperature (&deg;C)</th>
-                <th>Weather</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var hour in Model.Weather.HourlyForecast)
+    <div style="overflow-x: auto; white-space: nowrap; margin: 2em 0;">
+        <div style="display: flex; gap: 1em; min-width: 600px;">
+            @foreach (var hour in Model.Weather.HourlyForecast.Take(6))
             {
-                <tr>
-                    <td>@hour.Time.ToString("HH:00")</td>
-                    <td>@hour.Temperature</td>
-                    <td>
-                        <img src="~/Images/Main/@hour.IconName" alt="Weather Icon/Description" class="weather-table-icon-display" />
-                    </td>
-                </tr>
+                <div style="flex: 0 0 auto; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 6px #0001; padding: 1em; text-align: center; min-width: 100px;">
+                    <div>@hour.Time.ToString("HH:00")</div>
+                    <img src="~/Images/Main/@hour.IconName" alt="Weather Icon/Description" style="width: 48px; height: 48px; margin: 0.5em 0;" />
+                    <div>@hour.Temperature&nbsp;°C</div>
+                    <div style="font-size: 0.9em; color: #555;">@hour.WeatherDescription</div>
+                </div>
             }
-        </tbody>
-    </table>
-}
-else
-{
-    <p>Hourly forecast is currently unavailable. Please try again later.</p>
+        </div>
+    </div>
 }
 
 <div style="margin-top: 2em;">

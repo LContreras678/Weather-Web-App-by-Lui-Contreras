@@ -305,11 +305,17 @@ C:\Users\luima\Documents\University of Sunderland MSc\Little Test Projects\Weath
 C:\Users\luima\Documents\University of Sunderland MSc\Little Test Projects\WeatherWebLC\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.pdb
 C:\Users\luima\Documents\University of Sunderland MSc\Little Test Projects\WeatherWebLC\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.genruntimeconfig.cache
 C:\Users\luima\Documents\University of Sunderland MSc\Little Test Projects\WeatherWebLC\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\ref\WeatherWebAppLuiC.dll
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\publish\web.config
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\web.config
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\appsettings.json
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\web.config
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\appsettings.Development.json
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\appsettings.json
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\publish\appsettings.Development.json
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\publish\appsettings.json
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\publish\WeatherWebAppLuiC.deps.json
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\publish\WeatherWebAppLuiC.runtimeconfig.json
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\publish\WeatherWebAppLuiC.staticwebassets.endpoints.json
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\WeatherWebAppLuiC.deps.json
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\WeatherWebAppLuiC.runtimeconfig.json
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\WeatherWebAppLuiC.staticwebassets.endpoints.json
@@ -335,7 +341,6 @@ C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Wea
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\scopedcss\projectbundle\WeatherWebAppLuiC.bundle.scp.css
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\compressed\cslt8w4xhs-67qq344hri.gz
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\compressed\07cmm02rqm-61n19gt1b8.gz
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\compressed\f4c7g1vnqy-dlzh6knsg7.gz
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\compressed\ubmorayrm3-t1cqhe9u97.gz
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\compressed\iq48aagguk-c2jlpeoesf.gz
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\compressed\g8rndru79o-sejl45xvog.gz
@@ -412,3 +417,4 @@ C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Wea
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.pdb
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.genruntimeconfig.cache
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\ref\WeatherWebAppLuiC.dll
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\compressed\f4c7g1vnqy-u9ttmbklv5.gz

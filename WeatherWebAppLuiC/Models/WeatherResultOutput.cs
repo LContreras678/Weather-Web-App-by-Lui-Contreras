@@ -21,6 +21,8 @@ namespace WeatherWebAppLuiC.Models
         public DateTime Time { get; set; }
         public int Temperature { get; set; }
         public string? IconName { get; set; }
+
+        public string? WeatherDescription { get; set; }
     }
 
 }
