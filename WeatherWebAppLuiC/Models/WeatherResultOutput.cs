@@ -64,6 +64,12 @@ namespace WeatherWebAppLuiC.Models
         public double TemperatureF => Math.Round(WeatherResultOutput.CelsiusToFahrenheit(Temperature), 1);
 
         public string TemperatureDisplay => $"{Math.Round(Temperature, 0)}°C / {TemperatureF} °F";
+
+        // Probability of precipitation as an integer percent (0-100)
+        public int? PrecipitationProbabilityPercent { get; set; }
+
+        // Display helper e.g. "34%"; show "0%" when null
+        public string PrecipitationProbabilityDisplay => PrecipitationProbabilityPercent.HasValue ? $"{PrecipitationProbabilityPercent.Value}%" : "0%";
     }
 
 }

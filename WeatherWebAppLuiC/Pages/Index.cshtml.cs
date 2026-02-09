@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using WeatherWebAppLuiC.Models;
 using Newtonsoft.Json.Linq;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace WeatherWebAppLuiC.Pages;
 
@@ -10,6 +12,7 @@ public class IndexModel : PageModel
     private readonly IHttpClientFactory _httpClientFactory;
     private readonly IConfiguration _configuration;
     public WeatherResultOutput? Weather { get; set; }
+    public List<WeatherResultOutput> PreloadedWeathers { get; set; } = new();
     [BindProperty]
     public string? City { get; set; }
         [BindProperty]

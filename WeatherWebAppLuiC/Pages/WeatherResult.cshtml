@@ -5,17 +5,24 @@
 
 @if (Model.Weather != null)
 {
-    <div class="weather-summary">
-        <img class="weather-icon"
-             src="@(Model.Weather.HourlyForecast != null && Model.Weather.HourlyForecast.Count > 0 ? Model.Weather.HourlyForecast[0].IconName : "https://openweathermap.org/img/wn/03d@2x.png")"
-             alt="Current Weather Icon" />
-        <div class="weather-text">
-            <p>@Model.Weather.City</p>
-            <p>@Model.Weather.WeatherDescription</p>
-            <p><strong>Current Temperature: </strong>@Model.Weather.TempsDisplay</p>
-            <p><strong>Feels Like: </strong>@Model.Weather.TempsFeelsLikeDisplay</p>
-            <p><strong>Min. Temperature: </strong>@Model.Weather.MinTempsDisplay</p>
-            <p><strong>Max. Temperature: </strong>@Model.Weather.MaxTempsDisplay</p>
+    <div class="weather-summary" style="display:flex; align-items:center; gap:1rem;">
+        <div style="display:flex; align-items:center; gap:1rem;">
+            <div style="text-align:center;">
+                <img class="weather-icon"
+                     src="@(Model.Weather.HourlyForecast != null && Model.Weather.HourlyForecast.Count > 0 ? Model.Weather.HourlyForecast[0].IconName : "https://openweathermap.org/img/wn/03d@2x.png")"
+                     alt="Current Weather Icon" style="max-width:100px;" />
+                <div style="font-size:2.5rem; font-weight:700; margin-top:0.25rem;">@Model.Weather.TempsDisplay</div>
+                <p><strong>@Model.Weather.City</strong></p>
+            </div>
+            <div class="weather-text">
+                <p style="font-size:1.5rem; font-weight:600; margin:0.25rem 0;">@Model.Weather.WeatherDescription</p>
+                <hr style="border:0; height:1px; background:#e0e0e0; margin:0.5rem 0;" />
+                <p><strong>Feels Like: </strong>@Model.Weather.TempsFeelsLikeDisplay</p>
+                <hr style="border:0; height:1px; background:#e0e0e0; margin:0.5rem 0;" />
+                <p><strong>Min. Temperature: </strong>@Model.Weather.MinTempsDisplay</p>
+                <hr style="border:0; height:1px; background:#e0e0e0; margin:0.5rem 0;" />
+                <p><strong>Max. Temperature: </strong>@Model.Weather.MaxTempsDisplay</p>
+            </div>
         </div>
     </div>
 }
@@ -32,13 +39,14 @@ else
 {
     <div style="overflow-x: auto; white-space: nowrap; margin: 2em 0;">
         <div style="display: flex; gap: 1em; min-width: 600px;">
-            @foreach (var hour in Model.Weather.HourlyForecast.Take(6))
+            @foreach (var hour in Model.Weather.HourlyForecast.Take(12))
             {
-                <div style="flex: 0 0 auto; background: #276CF5; border-radius: 8px; box-shadow: 0 2px 6px #0001; padding: 1em; text-align: center; min-width: 100px;">
+                <div style="flex: 0 0 auto; background: #808080; border-radius: 8px; box-shadow: 0 2px 6px #0001; padding: 1em; text-align: center; min-width: 100px;">
                     <div>@hour.Time.ToString("HH:00")</div>
                     <img class="hour-icon" src="@hour.IconName" alt="Weather Icon/Description" />
                     <div>@hour.TemperatureDisplay</div>
-                    
+                    <div style="margin-top:0.5rem; font-size:0.85rem; color:#ffffffcc;">Precipitation Probability</div>
+                    <div style="font-weight:600;">@hour.PrecipitationProbabilityDisplay</div>
                 </div>
             }
         </div>

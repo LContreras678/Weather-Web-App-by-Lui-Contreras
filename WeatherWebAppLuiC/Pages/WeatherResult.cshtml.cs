@@ -150,6 +150,8 @@ namespace WeatherWebAppLuiC.Pages
                     Temperature = hourTemp,
                     IconName = MapIcon(hourWeather),
                     WeatherDescription = hourWeather?.Description
+                    ,
+                    PrecipitationProbabilityPercent = hourData.Pop.HasValue ? (int?)Math.Round(hourData.Pop.Value * 100) : (int?)null
                 });
             }
 

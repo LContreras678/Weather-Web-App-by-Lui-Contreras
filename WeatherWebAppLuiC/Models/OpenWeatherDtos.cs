@@ -29,6 +29,7 @@ namespace WeatherWebAppLuiC.Models
     {
         [JsonPropertyName("dt")] public long Dt { get; set; }
         [JsonPropertyName("temp")] public double Temp { get; set; }
+        [JsonPropertyName("pop")] public double? Pop { get; set; }
         [JsonPropertyName("weather")] public List<WeatherInfo>? Weather { get; set; }
     }
 

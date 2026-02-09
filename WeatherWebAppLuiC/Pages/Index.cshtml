@@ -29,5 +29,20 @@
     </div>
 }
 
+@* Preloaded city cards for New York and Tokyo *@
+@if (Model.PreloadedWeathers != null && Model.PreloadedWeathers.Count > 0)
+{
+    <div style="display:flex; gap:1rem; justify-content:center; margin-top:1.5rem; flex-wrap:wrap;">
+        @foreach (var w in Model.PreloadedWeathers)
+        {
+            <div style="background:#f5f5f5; border-radius:8px; padding:1rem; text-align:center; width:180px; box-shadow:0 2px 6px #0001; background: #808080;">
+                <div style="font-weight:600; margin-bottom:0.25rem;">@w.City</div>
+                <img src="@(w.HourlyForecast.FirstOrDefault()?.IconName ?? "https://openweathermap.org/img/wn/03d@2x.png")" alt="Weather Icon" style="max-width:80px; display:block; margin:0.25rem auto;" />
+                <div style="font-size:1.1rem; font-weight:400; margin-top:0.5rem;">@w.TempsDisplay</div>
+            </div>
+        }
+    </div>
+}
+
 <!-- Ensure site.js is loaded for autocomplete functionality -->
 <script src="~/js/site.js"></script>

@@ -418,6 +418,19 @@ C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Wea
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.pdb
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.genruntimeconfig.cache
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\ref\WeatherWebAppLuiC.dll
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.csproj.AssemblyReference.cache
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.AssemblyInfoInputs.cache
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.AssemblyInfo.cs
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.csproj.CoreCompileInputs.cache
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.RazorAssemblyInfo.cache
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.RazorAssemblyInfo.cs
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.sourcelink.json
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.dll
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\refint\WeatherWebAppLuiC.dll
+C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.pdb
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\publish\web.config
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\publish\web.config
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\appsettings.Development.json
@@ -440,16 +453,6 @@ C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Ver
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\WeatherWebAppLuiC.dll
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\WeatherWebAppLuiC.pdb
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\bin\Debug\net9.0\Newtonsoft.Json.dll
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.csproj.AssemblyReference.cache
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.AssemblyInfoInputs.cache
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.AssemblyInfo.cs
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.csproj.CoreCompileInputs.cache
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.RazorAssemblyInfo.cache
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.RazorAssemblyInfo.cs
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.sourcelink.json
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -526,8 +529,5 @@ C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Ver
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\swae.build.ex.cache
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherW.1CCE9776.Up2Date
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.dll
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\refint\WeatherWebAppLuiC.dll
-C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.pdb
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\WeatherWebAppLuiC.genruntimeconfig.cache
 C:\Users\luima\Documents\University of Sunderland MSc\PROM06\Weather Web App\Version 2 (Simpler)\Weather-Web-App-by-Lui-Contreras\WeatherWebAppLuiC\obj\Debug\net9.0\ref\WeatherWebAppLuiC.dll

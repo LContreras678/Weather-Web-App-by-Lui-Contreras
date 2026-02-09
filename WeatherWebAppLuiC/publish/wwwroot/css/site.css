@@ -29,12 +29,12 @@
 }
 
 .center-button {
+  width: 100px;
+  height: auto;
+  max-width: 65%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-html {
+  margin: 0.5rem auto;
+  object-fit: contain;
   font-size: 14px;
 }
 
@@ -48,13 +48,61 @@ html {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+html, body {
+  height: 100%;
+  margin: 0;
 }
 
+
 body {
-  margin-bottom: 60px;
+  padding-bottom: 60px;
+}
+
+
+body {
+  background-image: linear-gradient(126.6deg, rgba(44,115,210,1) 3.4%, rgba(251,234,255,1) 127.9%);
+  min-height: 100vh;
+  background-attachment: fixed;
+}
+
+
+header, .navbar {
+  position: relative;
+  z-index: 3;
+}
+
+.navbar {
+  background: linear-gradient(90deg, #EBF4F5, #B5C6E0) !important;
+}
+
+
+.hero-wrapper {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+
+  height: calc(75vh - (var(--site-header-height, 70px) * 0.75));
+  overflow: hidden;
+  position: relative;
+}
+
+.hero-wrapper img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: flex-start; 
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding-top: 4vh; 
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
@@ -75,13 +123,30 @@ button-search {
   height: auto;
   max-width: 65%;
   display: block;
-  margin: 0 auto;
+  margin: 0; 
+  object-fit: contain;
+  flex: 0 0 auto;
+}
+
+.hour-icon {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+    margin: 0.5em 0;
+}
+
+
+.weather-summary {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.weather-text {
+  flex: 1 1 auto;
 }
 
 .weather-table-icon-display {
   width: 25px;
-  length: 25px;
+  height: 25px;
   object-fit: contain;
 }
-
-
