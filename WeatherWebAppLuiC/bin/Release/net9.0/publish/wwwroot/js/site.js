@@ -13,7 +13,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // Autocomplete for city input
-    // Try to select the city input by id or name
     let cityInput = document.querySelector('input[name="City"]');
     if (!cityInput) {
         cityInput = document.getElementById('City');
@@ -25,7 +24,6 @@ document.addEventListener('DOMContentLoaded', function () {
         console.error('City input not found!');
     }
     const suggestionsBox = document.getElementById('city-suggestions');
-    const apiKey = '337ae1ad117f2462b426a91fe7943fd5';
 
     if (cityInput && suggestionsBox) {
         console.log('City input and suggestions box found, autocomplete enabled.');
@@ -35,8 +33,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 suggestionsBox.innerHTML = '';
                 return;
             }
-            // Fetch city suggestions from OpenWeather Geocoding API
-            const url = `https://api.openweathermap.org/geo/1.0/direct?q=${encodeURIComponent(query)}&limit=5&appid=${apiKey}`;
+            // Fetch city suggestions via server-side proxy handler to keep API key secret
+            const url = `/Index?handler=Geocode&query=${encodeURIComponent(query)}`;
             try {
                 const response = await fetch(url);
                 const cities = await response.json();

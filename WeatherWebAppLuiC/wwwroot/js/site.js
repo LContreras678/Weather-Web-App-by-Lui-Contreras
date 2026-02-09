@@ -13,7 +13,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // Autocomplete for city input
-    // Try to select the city input by id or name
     let cityInput = document.querySelector('input[name="City"]');
     if (!cityInput) {
         cityInput = document.getElementById('City');
@@ -25,7 +24,6 @@ document.addEventListener('DOMContentLoaded', function () {
         console.error('City input not found!');
     }
     const suggestionsBox = document.getElementById('city-suggestions');
-    const apiKey = '337ae1ad117f2462b426a91fe7943fd5';
 
     if (cityInput && suggestionsBox) {
         console.log('City input and suggestions box found, autocomplete enabled.');
@@ -35,8 +33,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 suggestionsBox.innerHTML = '';
                 return;
             }
-            // Fetch city suggestions from OpenWeather Geocoding API
-            const url = `https://api.openweathermap.org/geo/1.0/direct?q=${encodeURIComponent(query)}&limit=5&appid=${apiKey}`;
+            // Fetch city suggestions via server-side proxy handler to keep API key secret
+            const url = `/Index?handler=Geocode&query=${encodeURIComponent(query)}`;
             try {
                 const response = await fetch(url);
                 const cities = await response.json();
@@ -53,9 +51,23 @@ document.addEventListener('DOMContentLoaded', function () {
                         const fullString = `${city.name}${city.state ? ', ' + city.state : ''}, ${city.country}`;
                         item.textContent = fullString;
                         item.onclick = function () {
-                            cityInput.value = fullString;
-                            suggestionsBox.innerHTML = '';
-                        };
+                                // Fill the search input with the selected city and close suggestions
+                                cityInput.value = fullString;
+                                cityInput.focus();
+                                // Store lat/lon into hidden inputs if present
+                                const latInput = document.getElementById('Lat');
+                                const lonInput = document.getElementById('Lon');
+                                if (latInput) latInput.value = city.lat;
+                                if (lonInput) lonInput.value = city.lon;
+                                // Optionally move caret to end
+                                if (cityInput.setSelectionRange) {
+                                    const len = cityInput.value.length * 2;
+                                    cityInput.setSelectionRange(len, len);
+                                } else {
+                                    cityInput.value = cityInput.value;
+                                }
+                                suggestionsBox.innerHTML = '';
+                            };
                         suggestionsBox.appendChild(item);
                     });
                 } else {
@@ -75,3 +87,16 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 });
+
+// Measure header height and expose as CSS variable so hero can use it
+function setHeaderHeightVar() {
+    const header = document.querySelector('header');
+    if (!header) return;
+    const rect = header.getBoundingClientRect();
+    const height = Math.ceil(rect.height);
+    document.documentElement.style.setProperty('--site-header-height', height + 'px');
+}
+
+window.addEventListener('load', setHeaderHeightVar);
+window.addEventListener('resize', setHeaderHeightVar);
+document.addEventListener('DOMContentLoaded', setHeaderHeightVar);

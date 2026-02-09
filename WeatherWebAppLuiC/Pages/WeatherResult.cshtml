@@ -1,35 +1,44 @@
 @page "{city}"
 @model WeatherWebAppLuiC.Pages.WeatherResultModel
 
-<h2>Weather Overview</h2>
+<h1>Weather Overview</h1>
 
 @if (Model.Weather != null)
 {
-    <img src="~/Images/Main/@(Model.Weather.HourlyForecast != null && Model.Weather.HourlyForecast.Count > 0 ? Model.Weather.HourlyForecast[0].IconName : "03d.png")" alt="Current Weather Icon" />
-    <p>@Model.Weather.City</p>
-    <p>@Model.Weather.WeatherDescription</p>
-    <p>@($"{Model.Weather.Temps}°C")</p>
+    <div class="weather-summary">
+        <img class="weather-icon"
+             src="@(Model.Weather.HourlyForecast != null && Model.Weather.HourlyForecast.Count > 0 ? Model.Weather.HourlyForecast[0].IconName : "https://openweathermap.org/img/wn/03d@2x.png")"
+             alt="Current Weather Icon" />
+        <div class="weather-text">
+            <p>@Model.Weather.City</p>
+            <p>@Model.Weather.WeatherDescription</p>
+            <p><strong>Current Temperature: </strong>@Model.Weather.TempsDisplay</p>
+            <p><strong>Feels Like: </strong>@Model.Weather.TempsFeelsLikeDisplay</p>
+            <p><strong>Min. Temperature: </strong>@Model.Weather.MinTempsDisplay</p>
+            <p><strong>Max. Temperature: </strong>@Model.Weather.MaxTempsDisplay</p>
+        </div>
+    </div>
 }
 else
 {
     <div>
         Weather information not found. Please return to home page: 
-        <a href="/">Return Home</a>
+        <a href="/">Return Home and search again</a>
     </div>
 }
 
-@* Horizontally scrollable next 6 hours forecast *@
+
 @if (Model.Weather?.HourlyForecast != null && Model.Weather.HourlyForecast.Count > 0)
 {
     <div style="overflow-x: auto; white-space: nowrap; margin: 2em 0;">
         <div style="display: flex; gap: 1em; min-width: 600px;">
             @foreach (var hour in Model.Weather.HourlyForecast.Take(6))
             {
-                <div style="flex: 0 0 auto; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 6px #0001; padding: 1em; text-align: center; min-width: 100px;">
+                <div style="flex: 0 0 auto; background: #276CF5; border-radius: 8px; box-shadow: 0 2px 6px #0001; padding: 1em; text-align: center; min-width: 100px;">
                     <div>@hour.Time.ToString("HH:00")</div>
-                    <img src="~/Images/Main/@hour.IconName" alt="Weather Icon/Description" style="width: 48px; height: 48px; margin: 0.5em 0;" />
-                    <div>@hour.Temperature&nbsp;°C</div>
-                    <div style="font-size: 0.9em; color: #555;">@hour.WeatherDescription</div>
+                    <img class="hour-icon" src="@hour.IconName" alt="Weather Icon/Description" />
+                    <div>@hour.TemperatureDisplay</div>
+                    
                 </div>
             }
         </div>
@@ -37,5 +46,5 @@ else
 }
 
 <div style="margin-top: 2em;">
-    <a href="/">Return Home</a>
+    <a href="/" style="color: #003366;">Return Home</a>
 </div>
